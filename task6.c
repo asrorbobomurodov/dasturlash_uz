@@ -1,3 +1,4 @@
+//Sonlar ro'yxati
 #include <stdio.h>
 
 int main () {
